@@ -1,3 +1,5 @@
-# flutter_simple_timer_app
-
-A new Flutter project.
+![Timer](images/timer_ss.png)
+![Timer_2](images/timer_2.png)
+![Session](images/session_ss.png)
+![Stats](images/stats_ss.png)
+![Settings](images/settings_ss.png)
